@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-image: url("./ab.jpg");
+}
+h1 {
+  text-align: center;
+  color: #da2a88;
+  padding: 50px;
+}
+h2 {
+  color: rgb(80, 78, 78);
+  text-align: center;
+  margin-left: 50px;
+}
+.formeauth {
+  text-align: center;
+  align-items: center;
+  color: #da2a88;
+  padding: 10px;
+  margin-top: 30px;
+  /* border: 1px solid rgb(146, 66, 127);*/
+  width: 550px;
+  height: 620px;
+  margin-left: 400px;
+}
+#formBasicEmail {
+  width: 400px;
+  margin-left: 100px;
+}
+#formBasicPassword {
+  width: 400px;
+  margin-left: 100px;
+}
+#formBasicCheckbox {
+  margin-left: 200px;
+}
+.check {
+  /*  border: 1px solid rgb(146, 66, 127);*/
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  background-color: rgb(177, 15, 118);
+}
